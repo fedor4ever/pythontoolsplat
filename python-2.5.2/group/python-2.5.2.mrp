@@ -1,0 +1,8 @@
+component dev_hostenv_pythontoolsplat_python-2.5.2
+
+source ..
+
+ipr B
+
+notes_source release.txt
+
